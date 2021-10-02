@@ -1,0 +1,41 @@
+.container {
+  padding: 20px;
+  padding-top: 150px;
+}
+
+.userInput {
+  padding-top: 100px;
+}
+
+.formInput {
+  margin-top: 10px;
+}
+
+.userOutput {
+  padding-top: 100px;
+}
+
+.result {
+  padding-left: 100px;
+  padding-top: 80px;
+}
+
+.heading {
+  padding-left: 60px;
+  padding-bottom: 10px;
+}
+
+.heading2 {
+  padding-left: 75px;
+  padding-bottom: 10px;
+}
+
+.yourTime {
+  padding-top: 100px;
+  padding-left: 55px;
+}
+
+.convertButton {
+  background-color: #01acc0;
+  color: white;
+}
